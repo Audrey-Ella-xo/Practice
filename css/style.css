@@ -1,5 +1,6 @@
 body {
     font-family: Georgia;
+    background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D63541433909&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FWaterClubNYC%2F&docid=DeTzP9oR9OvRIM&tbnid=v-Yd6T19cB7ubM%3A&vet=10ahUKEwjrmZfn-5nkAhVBwVkKHUhnCtoQMwhfKAAwAA..i&w=734&h=734&bih=647&biw=681&q=water%20club%20images&ved=0ahUKEwjrmZfn-5nkAhVBwVkKHUhnCtoQMwhfKAAwAA&iact=mrc&uact=8");
    }
   .header {
     font-size: 15px;
@@ -7,4 +8,9 @@ body {
   }
   h4.reservation {
     width: 100%;
+  }
+  #table {
+    width: 20px;
+    heigth: 40px;
+    display: inline-grid;
   }
